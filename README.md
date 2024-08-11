@@ -10,9 +10,3 @@ A command-line application to manage tasks efficiently. This project helps you p
 - **Delete Tasks:** Remove tasks that are no longer needed.
 - **Sort Tasks:** Organize tasks by priority or due date.
 - **Save and Load:** Persist tasks to a file and load them later.
-
-## Getting Started
-
-1. **Clone the Repository:**
-   ```bash
-   git clone <repository-url>

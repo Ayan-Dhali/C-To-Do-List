@@ -1,2 +1,18 @@
-# C-To-Do-List
-C++ To-Do List: A command-line tool to manage tasks. Features include adding, viewing, marking, deleting, and sorting tasks by priority or due date. Tasks can be saved and loaded from a file. Ideal for practicing C++ basics like arrays, strings, and file handling.
+## C++ To-Do List
+
+A command-line application to manage tasks efficiently. This project helps you practice key C++ concepts while building a practical tool.
+
+## Features
+
+- **Add Tasks:** Easily add new tasks with descriptions and deadlines.
+- **View Tasks:** Display all tasks with details such as priority and due date.
+- **Mark as Complete:** Update tasks to mark them as complete or incomplete.
+- **Delete Tasks:** Remove tasks that are no longer needed.
+- **Sort Tasks:** Organize tasks by priority or due date.
+- **Save and Load:** Persist tasks to a file and load them later.
+
+## Getting Started
+
+1. **Clone the Repository:**
+   ```bash
+   git clone <repository-url>
